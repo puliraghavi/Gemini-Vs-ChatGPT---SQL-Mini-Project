@@ -1,15 +1,21 @@
-# Gemini-Vs-ChatGPT-SQL-Mini-Project
+# 🌐🦾Gemini-Vs-ChatGPT-SQL-Mini-Project
 
 ![Black Violet Pink 3D Company Internal Deck Business Presentation](https://github.com/puliraghavi/Gemini-Vs-ChatGPT---SQL-Mini-Project/assets/119037510/553c4d26-fe2b-4f0b-bf07-77147ba39ae4)
 
 ## 📚Contents
 - [Problem Statement](#problem-statement)
-- [Questions and Solution](#question-and-solution)
+- [Questions and Solutions](#questions-and-solutions)
 
 ***
 ## Problem Statement
+This [project](https://nitish2162001.github.io/Challenges/case1.html) is a data analytics challenge crafted by [Digits n Data](https://in.linkedin.com/company/digits-n-data). 
+The Aim is to compare the capabilities of two large language models (LLMs): Gemini Ultra and ChatGPT 4. Through a data analytics approach using SQL, we will analyze their performance across various Capabilities & benchmarks to determine their strengths and weaknesses.
 
-This project aims to compare the capabilities of two large language models (LLMs): Gemini Ultra and ChatGPT 4. Through a data analytics approach using SQL, we will analyze their performance across various benchmarks to determine their strengths and weaknesses.
+**Language Models (LMs) like ChatGPT and Gemini** represent pivotal advancements in artificial intelligence, reshaping human-computer interaction. ChatGPT, powered by OpenAI's GPT architecture, excels in generating contextually relevant responses, fostering immersive conversational experiences across diverse topics. Its adaptability and deep understanding of language nuances make it invaluable for tasks ranging from casual chats to informative discussions.
+
+In contrast, **Gemini**, a collaboration between OpenAI and Microsoft, innovatively integrates text and visual context to enhance comprehension and generate nuanced responses. By leveraging multimodal learning, Gemini transcends traditional language models, unlocking new possibilities in image captioning, content analysis, and immersive experiences.
+
+Both LMs democratize access to AI-driven language understanding, facilitating productivity, learning, and companionship. They epitomize the transformative potential of AI in reshaping our digital landscape, paving the way for seamless human-machine collaboration. We will be comparing the two based on various parameters in this case study.
 
 Objectives:
 1. Identify key capabilities of Gemini Ultra and ChatGPT 4.
@@ -18,7 +24,7 @@ Objectives:
 4. Gain insights into the relative strengths and weaknesses of each LLM.
 
 ***
-## Questions and Solution
+## Questions and Solutions
 
 **1. What are the average scores for each capability on both the Gemini Ultra and GPT-4 models?**
 ````sql
