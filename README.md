@@ -101,7 +101,7 @@ order by scoregemini desc, scoregpt4 desc
 **4. Calculate the percentage improvement of Gemini Ultra over GPT-4 for each benchmark?**
 ````sql
 select BenchmarkName,
-       round(((scoregemini-scoregpt4)/scoregpt4)*100,1)              as Percentage_Improvement
+       round(((scoregemini-scoregpt4)/scoregpt4)*100,1) as Percentage_Improvement
 from Benchmarks
 group by Benchmarkname, 
        ScoreGemini, 
