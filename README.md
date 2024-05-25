@@ -1,1 +1,1 @@
-# Gemini-Vs-ChatGPT---SQL-Mini-Project
+# Gemini-Vs-ChatGPT-SQL-Mini-Project
