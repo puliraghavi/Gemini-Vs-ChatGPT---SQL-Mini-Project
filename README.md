@@ -9,7 +9,7 @@
 ***
 ## Problem Statement
 This [project](https://nitish2162001.github.io/Challenges/case1.html) is a data analytics challenge crafted by [Digits n Data](https://in.linkedin.com/company/digits-n-data). 
-The Aim is to compare the capabilities of two large language models (LLMs): Gemini Ultra and ChatGPT 4. Through a data analytics approach using SQL, we will analyze their performance across various Capabilities & benchmarks to determine their strengths and weaknesses.
+The Aim is to compare the capabilities of two large language models (LLMs): Gemini Ultra and ChatGPT 4. Through a data analytics approach using SQL, we will analyze their performance across various & benchmarks to determine their strengths and weaknesses.
 
 **Language Models (LMs) like ChatGPT and Gemini** represent pivotal advancements in artificial intelligence, reshaping human-computer interaction. ChatGPT, powered by OpenAI's GPT architecture, excels in generating contextually relevant responses, fostering immersive conversational experiences across diverse topics. Its adaptability and deep understanding of language nuances make it invaluable for tasks ranging from casual chats to informative discussions.
 
